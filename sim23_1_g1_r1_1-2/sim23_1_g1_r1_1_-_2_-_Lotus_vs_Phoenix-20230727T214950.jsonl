@@ -1,0 +1,119 @@
+{"datetime": "2023-07-27T21:49:52.789537Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2023-07-27T21:49:52.801938Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 21, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "Phoenix", "team_name_blue": "Lotus", "match_id": "sim23_1_g1_r1_1", "halftime": 2}}
+{"datetime": "2023-07-27T21:50:33.456949Z", "matchtime": 15.04000000001838, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T21:50:33.459265Z", "matchtime": 15.04000000001838, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T21:50:33.460331Z", "matchtime": 15.04000000001838, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T21:51:25.284841Z", "matchtime": 30.08000000003676, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T21:51:25.287599Z", "matchtime": 30.08000000003676, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T21:51:25.288743Z", "matchtime": 30.08000000003676, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T21:51:40.128602Z", "matchtime": 33.66400000004114, "event": "GOAL", "payload": {"team_name": "Phoenix", "score_yellow": 22, "score_blue": 0}}
+{"datetime": "2023-07-27T21:51:53.355232Z", "matchtime": 36.67200000004482, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2023-07-27T21:53:06.259370Z", "matchtime": 51.7120000000632, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T21:53:06.262175Z", "matchtime": 51.7120000000632, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T21:53:06.263751Z", "matchtime": 51.7120000000632, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T21:53:46.498361Z", "matchtime": 59.58400000007282, "event": "GOAL", "payload": {"team_name": "Phoenix", "score_yellow": 23, "score_blue": 0}}
+{"datetime": "2023-07-27T21:54:01.349418Z", "matchtime": 62.592000000076496, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2023-07-27T21:55:23.236025Z", "matchtime": 77.63200000009488, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T21:55:23.238165Z", "matchtime": 77.63200000009488, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T21:55:23.239277Z", "matchtime": 77.63200000009488, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T21:56:04.196985Z", "matchtime": 84.25600000010297, "event": "GOAL", "payload": {"team_name": "Phoenix", "score_yellow": 24, "score_blue": 0}}
+{"datetime": "2023-07-27T21:56:22.628447Z", "matchtime": 87.26400000010665, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2023-07-27T21:57:57.345964Z", "matchtime": 102.30400000009956, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T21:57:57.348608Z", "matchtime": 102.30400000009956, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T21:57:57.349808Z", "matchtime": 102.30400000009956, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T21:58:42.675677Z", "matchtime": 109.40800000009563, "event": "GOAL", "payload": {"team_name": "Phoenix", "score_yellow": 25, "score_blue": 0}}
+{"datetime": "2023-07-27T21:59:01.540147Z", "matchtime": 112.41600000009396, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2023-07-27T22:00:30.326981Z", "matchtime": 124.92800000008702, "event": "GOAL", "payload": {"team_name": "Phoenix", "score_yellow": 26, "score_blue": 0}}
+{"datetime": "2023-07-27T22:00:51.279480Z", "matchtime": 127.93600000008536, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2023-07-27T22:02:36.958770Z", "matchtime": 142.97600000007702, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T22:02:36.962326Z", "matchtime": 142.97600000007702, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T22:02:36.964169Z", "matchtime": 142.97600000007702, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T22:04:19.605531Z", "matchtime": 158.0160000000687, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T22:04:19.609765Z", "matchtime": 158.0160000000687, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T22:04:19.611254Z", "matchtime": 158.0160000000687, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T22:04:35.776968Z", "matchtime": 160.28800000006743, "event": "GOAL", "payload": {"team_name": "Phoenix", "score_yellow": 27, "score_blue": 0}}
+{"datetime": "2023-07-27T22:04:56.758867Z", "matchtime": 163.29600000006576, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2023-07-27T22:06:16.623882Z", "matchtime": 174.5920000000595, "event": "GOAL", "payload": {"team_name": "Phoenix", "score_yellow": 28, "score_blue": 0}}
+{"datetime": "2023-07-27T22:06:38.172158Z", "matchtime": 177.60000000005783, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2023-07-27T22:08:36.002219Z", "matchtime": 192.6400000000495, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T22:08:36.006062Z", "matchtime": 192.6400000000495, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T22:08:36.007749Z", "matchtime": 192.6400000000495, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T22:10:30.812552Z", "matchtime": 207.68000000004116, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T22:10:30.815195Z", "matchtime": 207.68000000004116, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T22:10:30.816247Z", "matchtime": 207.68000000004116, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T22:11:02.355911Z", "matchtime": 211.80800000003887, "event": "GOAL", "payload": {"team_name": "Phoenix", "score_yellow": 29, "score_blue": 0}}
+{"datetime": "2023-07-27T22:11:25.854796Z", "matchtime": 214.8160000000372, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2023-07-27T22:13:15.551066Z", "matchtime": 229.85600000002887, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T22:13:15.553887Z", "matchtime": 229.85600000002887, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T22:13:15.554946Z", "matchtime": 229.85600000002887, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T22:13:56.088810Z", "matchtime": 235.48800000002575, "event": "GOAL", "payload": {"team_name": "Phoenix", "score_yellow": 30, "score_blue": 0}}
+{"datetime": "2023-07-27T22:14:18.368222Z", "matchtime": 238.49600000002408, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2023-07-27T22:16:05.763234Z", "matchtime": 253.53600000001575, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T22:16:05.766577Z", "matchtime": 253.53600000001575, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T22:16:05.768019Z", "matchtime": 253.53600000001575, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T22:17:51.743882Z", "matchtime": 268.16000000000764, "event": "GOAL", "payload": {"team_name": "Phoenix", "score_yellow": 31, "score_blue": 0}}
+{"datetime": "2023-07-27T22:18:14.073361Z", "matchtime": 271.168000000006, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2023-07-27T22:20:08.345441Z", "matchtime": 286.20799999999764, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T22:20:08.348589Z", "matchtime": 286.20799999999764, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T22:20:08.349816Z", "matchtime": 286.20799999999764, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T22:22:00.873410Z", "matchtime": 301.2479999999893, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T22:22:00.877703Z", "matchtime": 301.2479999999893, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T22:22:00.879349Z", "matchtime": 301.2479999999893, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T22:23:50.419510Z", "matchtime": 316.28799999998097, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T22:23:50.422942Z", "matchtime": 316.28799999998097, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T22:23:50.424307Z", "matchtime": 316.28799999998097, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T22:23:55.492778Z", "matchtime": 317.05599999998054, "event": "GOAL", "payload": {"team_name": "Phoenix", "score_yellow": 32, "score_blue": 0}}
+{"datetime": "2023-07-27T22:24:17.175964Z", "matchtime": 320.0639999999789, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2023-07-27T22:25:41.103400Z", "matchtime": 331.5519999999725, "event": "GOAL", "payload": {"team_name": "Phoenix", "score_yellow": 33, "score_blue": 0}}
+{"datetime": "2023-07-27T22:26:03.503787Z", "matchtime": 334.55999999997084, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2023-07-27T22:27:52.537952Z", "matchtime": 349.5999999999675, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T22:27:52.540807Z", "matchtime": 349.5999999999675, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T22:27:52.541940Z", "matchtime": 349.5999999999675, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T22:29:02.548597Z", "matchtime": 359.10399999997065, "event": "GOAL", "payload": {"team_name": "Phoenix", "score_yellow": 34, "score_blue": 0}}
+{"datetime": "2023-07-27T22:29:24.954117Z", "matchtime": 362.11199999997166, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2023-07-27T22:31:15.526979Z", "matchtime": 377.1519999999767, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T22:31:15.530800Z", "matchtime": 377.1519999999767, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T22:31:15.532515Z", "matchtime": 377.1519999999767, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T22:33:05.886776Z", "matchtime": 392.1919999999817, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T22:33:05.890766Z", "matchtime": 392.1919999999817, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T22:33:05.892498Z", "matchtime": 392.1919999999817, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T22:33:42.946006Z", "matchtime": 397.2479999999834, "event": "GOAL", "payload": {"team_name": "Phoenix", "score_yellow": 35, "score_blue": 0}}
+{"datetime": "2023-07-27T22:34:05.569479Z", "matchtime": 400.2559999999844, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2023-07-27T22:35:56.002173Z", "matchtime": 415.2959999999894, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T22:35:56.006641Z", "matchtime": 415.2959999999894, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T22:35:56.008660Z", "matchtime": 415.2959999999894, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T22:36:44.444304Z", "matchtime": 421.8239999999916, "event": "GOAL", "payload": {"team_name": "Phoenix", "score_yellow": 36, "score_blue": 0}}
+{"datetime": "2023-07-27T22:37:06.654447Z", "matchtime": 424.8319999999926, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2023-07-27T22:38:56.483833Z", "matchtime": 439.8719999999976, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T22:38:56.486714Z", "matchtime": 439.8719999999976, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T22:40:04.183365Z", "matchtime": 448.9280000000007, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T22:40:15.253421Z", "matchtime": 450.2400000000011, "event": "GOAL", "payload": {"team_name": "Phoenix", "score_yellow": 37, "score_blue": 0}}
+{"datetime": "2023-07-27T22:40:37.640027Z", "matchtime": 453.2480000000021, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2023-07-27T22:42:28.524191Z", "matchtime": 468.2880000000071, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T22:42:28.527386Z", "matchtime": 468.2880000000071, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T22:42:28.528664Z", "matchtime": 468.2880000000071, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T22:44:17.052257Z", "matchtime": 483.3280000000071, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T22:44:17.055367Z", "matchtime": 483.3280000000071, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T22:44:17.056523Z", "matchtime": 483.3280000000071, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T22:44:54.807779Z", "matchtime": 488.5440000000065, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2023-07-27T22:46:06.091674Z", "matchtime": 498.36800000000545, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T22:46:06.095620Z", "matchtime": 498.36800000000545, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T22:46:06.096723Z", "matchtime": 498.36800000000545, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T22:47:54.841221Z", "matchtime": 513.4080000000038, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T22:47:54.844937Z", "matchtime": 513.4080000000038, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T22:47:54.846439Z", "matchtime": 513.4080000000038, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T22:48:29.888075Z", "matchtime": 518.3040000000033, "event": "GOAL", "payload": {"team_name": "Phoenix", "score_yellow": 38, "score_blue": 0}}
+{"datetime": "2023-07-27T22:48:51.429442Z", "matchtime": 521.3120000000029, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2023-07-27T22:50:45.385274Z", "matchtime": 536.3520000000012, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T22:50:45.388656Z", "matchtime": 536.3520000000012, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T22:50:45.390357Z", "matchtime": 536.3520000000012, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T22:51:57.762188Z", "matchtime": 546.2720000000002, "event": "GOAL", "payload": {"team_name": "Phoenix", "score_yellow": 39, "score_blue": 0}}
+{"datetime": "2023-07-27T22:52:20.448119Z", "matchtime": 549.2799999999999, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2023-07-27T22:53:28.968653Z", "matchtime": 558.6879999999987, "event": "GOAL", "payload": {"team_name": "Phoenix", "score_yellow": 40, "score_blue": 0}}
+{"datetime": "2023-07-27T22:53:52.044551Z", "matchtime": 561.6959999999984, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2023-07-27T22:55:33.594938Z", "matchtime": 575.3599999999977, "event": "GOAL", "payload": {"team_name": "Phoenix", "score_yellow": 41, "score_blue": 0}}
+{"datetime": "2023-07-27T22:55:55.741721Z", "matchtime": 578.3679999999978, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2023-07-27T22:57:46.431065Z", "matchtime": 593.4079999999977, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2023-07-27T22:57:46.433377Z", "matchtime": 593.4079999999977, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2023-07-27T22:57:46.434334Z", "matchtime": 593.4079999999977, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2023-07-27T22:58:33.795672Z", "matchtime": 600.0319999999978, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 41, "score_blue": 0, "team_name_yellow": "Phoenix", "team_name_blue": "Lotus"}}
